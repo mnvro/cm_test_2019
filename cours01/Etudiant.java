@@ -8,12 +8,12 @@ public class Etudiant {
 	public static void main(String[] args) {
 		Etudiant etudiant1 = new Etudiant();
 		etudiant1.nom = "Castiaux";
-		etudiant1.prenom = "Julien";
+		etudiant1.prenom = "Laurane";
 		etudiant1.numero = 42;
 		
 		Etudiant etudiant2 = new Etudiant();
 		etudiant2.nom = "Dupont";
-		etudiant2.prenom = "Jérémy";
+		etudiant2.prenom = "JÃ©rÃ©my";
 		etudiant2.numero = 3;
 	}
 
